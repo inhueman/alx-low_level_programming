@@ -1,6 +1,6 @@
 /**
- * main: prints the size of various types
- * return: 0 if exited properly, non-zero otherwise
+ * main: prints the size of various types on the computer it is run on
+ * Return: 0 if exited properly, non-zero otherwise
  */
 
 #include <stdio.h>
